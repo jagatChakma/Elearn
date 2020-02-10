@@ -1,0 +1,196 @@
+<resources>
+    <string name="app_name">E-Learn</string>
+
+    //bangla Shorborno mala
+
+    <string name="shorborno">স্বরবর্ণ</string>
+
+
+    <string name="shorborno1">অ</string>
+    <string name="shorborno2">আ</string>
+    <string name="shorborno3">ই</string>
+    <string name="shorborno4">ঈ</string>
+    <string name="shorborno5">উ</string>
+    <string name="shorborno6">ঊ</string>
+    <string name="shorborno7">ঋ</string>
+    <string name="shorborno8">এ</string>
+    <string name="shorborno9">ঐ</string>
+    <string name="shorborno10">ও</string>
+    <string name="shorborno11">ঔ</string>
+
+
+    //banjonborno bornomala
+
+    <string name="Banjonborno">ব্যঞ্জনবর্ণ</string>
+
+    <string name="banjonborno1">ক</string>
+    <string name="banjonborno2">খ</string>
+    <string name="banjonborno3">গ</string>
+    <string name="banjonborno4">ঘ</string>
+    <string name="banjonborno5">ঙ</string>
+    <string name="banjonborno6">চ</string>
+    <string name="banjonborno7">ছ</string>
+    <string name="banjonborno8">জ</string>
+    <string name="banjonborno9">ঝ</string>
+    <string name="banjonborno10">ঞ</string>
+    <string name="banjonborno11">ট</string>
+    <string name="banjonborno12">ঠ</string>
+    <string name="banjonborno13">ড</string>
+    <string name="banjonborno14">ঢ</string>
+    <string name="banjonborno15">ণ</string>
+    <string name="banjonborno16">ত</string>
+    <string name="banjonborno17">থ</string>
+    <string name="banjonborno18">দ</string>
+    <string name="banjonborno19">ধ</string>
+    <string name="banjonborno20">ন</string>
+    <string name="banjonborno21">প</string>
+    <string name="banjonborno22">ফ</string>
+    <string name="banjonborno23">ব</string>
+    <string name="banjonborno24">ভ</string>
+    <string name="banjonborno25">ম</string>
+    <string name="banjonborno26">য</string>
+    <string name="banjonborno27">র</string>
+    <string name="banjonborno28">ল</string>
+    <string name="banjonborno29">শ</string>
+    <string name="banjonborno30">ষ</string>
+    <string name="banjonborno31">স</string>
+    <string name="banjonborno32">হ</string>
+    <string name="banjonborno33">য়</string>
+    <string name="banjonborno34">ড়</string>
+    <string name="banjonborno35">ঢ়</string>
+
+    <string name="banjonborno36">‍্</string>
+    <string name="banjonborno37">‍ঁ</string>
+    <string name="banjonborno38">ঃ</string>
+    <string name="banjonborno39">ং</string>
+    <string name="banjonborno40">ৎ</string>
+
+
+    <string-array name="boss">
+
+        <item>site 1</item>
+        <item>site 2</item>
+        <item>site 3</item>
+        <item>site 4</item>
+        <item>site 5</item>
+        <item>site 6</item>
+        <item>site 7</item>
+        <item>site 8</item>
+        <item>site 9</item>
+        <item>site 10</item>
+        <item>site 11</item>
+        <item>site 12</item>
+        <item>site 13</item>
+        <item>site 14</item>
+        <item>site 15</item>
+        <item>site 16</item>
+        <item>site 17</item>
+        <item>site 18</item>
+        <item>site 19</item>
+        <item>site 20</item>
+        <item>site 21</item>
+        <item>site 22</item>
+        <item>site 23</item>
+        <item>site 24</item>
+        <item>site 25</item>
+        <item>site 26</item>
+        <item>site 27</item>
+        <item>site 28</item>
+        <item>site 29</item>
+
+    </string-array>
+
+
+    //jehftauioehtgfuoe
+
+
+    <string name="cat_card_title">Cards</string>
+    <string name="cat_card_draggable_card">Draggable Card</string>
+    <string name="cat_card_selection_mode">Selectable Cards</string>
+    <string name="cat_card_selectable_item_title">Message</string>
+    <string name="cat_card_states">Card States</string>
+    <string name="cat_card_list" translatable="false">Card List With Drag-and-Drop</string>
+    <string name="cat_card_draggable_card_content">This is a draggable Card.</string>
+    <string name="cat_card_states_card_content">This demo shows the different states on a card.</string>
+    <string name="cat_card_state_hovered">Hovered</string>
+    <string name="cat_card_state_pressed">Pressed</string>
+    <string name="cat_card_state_none">None</string>
+    <string name="cat_card_checkable_card">This is a checkable Card</string>
+    <string name="cat_card_m1_section_title">Material 1 CardView</string>
+    <string name="cat_card_description">
+    Cards represent entry points into deeper levels of detail or navigation, such as an album in
+    Music or an upcoming vacation in Trips. They can be used in a grid, carousel, or feed to
+    contain groups of individual packaged information.
+  </string>
+    <string name="cat_card_spacing_desc">
+    Cards on mobile default to 8dp margins. layout_margin needs to be set directly on a View in its
+    layout and will not work when included as part of a style.
+  </string>
+    <string name="cat_card_clickable_desc">
+    Cards can be clickable.
+  </string>
+    <string name="cat_card_elevation_desc">Cards have 1dp elevation.</string>
+    <string name="cat_card_m1_desc">
+    CardView from the Support Library works side-by-side with MaterialCardView. These cards default
+    to Material 1 styles and support fewer style attributes than MaterialCardView.
+  </string>
+    <string name="cat_card_style_only_desc">
+    MaterialCardView uses the correct styles by default and makes use of additional style attributes
+    that are not provided in CardView. If you do not need to use the new style attributes, you can
+    use MaterialCardView in your layout, or apply a style tag to a CardView. We recommend using
+    the MaterialCardView class for the latest Material designs and maximum flexibility in your UI.
+  </string>
+    <string name="cat_card_select">Select a state</string>
+    <string name="cat_card_selectable_content">
+    Lorem ipsum dolor sit amet, nec no nominavi scaevola. Per et sint sapientem, nobis perpetua salutandi mei te. Quo tamquam probatus reprehendunt in. Eos esse purto eruditi ea. Enim tation persius ut sea, eos ad consul populo.
+    Ne eum solet altera. Cibo eligendi et est, electram theophrastus te vel eu.
+  </string>
+
+    <!-- Rich Media Demo Strings -->
+    <string name="cat_card_rich_media_demo">Rich Media Cards</string>
+    <string name="cat_card_rich_media_sample_1">Sample #1</string>
+    <string name="cat_card_rich_media_sample_2">Sample #2</string>
+    <string name="cat_card_rich_media_sample_3">Sample #3</string>
+    <string name="cat_card_rich_media_view_overline">Title goes here</string>
+    <string name="cat_card_rich_media_view_title">Title goes here</string>
+    <string name="cat_card_rich_media_title_view_description">Card Title</string>
+    <string name="cat_card_rich_media_view_subtitle">Subtitle goes here</string>
+    <string name="cat_card_rich_media_subtitle_view_description">Card Subtitle</string>
+    <string name="cat_card_rich_media_view_secondary_line_text">Secondary line text Lorem ipsum dolor sit amet, nec no nominavi scaevola. Per et sint sapientem, nobis perpetua salutandi mei te.</string>
+    <string name="cat_card_rich_media_logo_view_description">Card Logo</string>
+    <string name="cat_card_rich_media_image_view_description">Card Image</string>
+    <string name="cat_card_rich_media_rating_text">4.5 (413)</string>
+    <string name="cat_card_rich_media_rating_view_description">Card Rating</string>
+    <string name="cat_card_rich_media_chip_title_1">Item 1</string>
+    <string name="cat_card_rich_media_chip_title_2">Item 2</string>
+    <string name="cat_card_rich_media_chip_title_3">Item 3</string>
+    <string name="cat_card_rich_media_chip_title_4">Item 4</string>
+    <string name="cat_card_rich_media_action_1">Action 1</string>
+    <string name="cat_card_rich_media_action_2">Action 2</string>
+
+    <string name="cat_card_action_move_top_left" description="A description of an action that a user of an accessibility service can perform to move the card to the top left corner of the screen. [CHAR LIMIT=25]">Move to top left</string>
+
+
+    <string name="cat_card_action_move_up" description="A description of an action that a user of an accessibility service can perform to swap the card with the one above it. [CHAR LIMIT=25]">Move Up</string>
+    <string name="cat_card_action_move_down" description="A description of an action that a user of an accessibility service can perform to swap the card with the one below it. [CHAR LIMIT=25]">Move Down</string>
+    <string name="cat_card_action_move_top_right" description="A description of an action that a user of an accessibility service can perform to move the card to the top right corner of the screen. [CHAR LIMIT=25]">Move to top right</string>
+    <string name="cat_card_action_move_bottom_left" description="A description of an action that a user of an accessibility service can perform to move the card to the bottom left corner of the screen. [CHAR LIMIT=25]">Move to bottom left</string>
+    <string name="cat_card_action_move_bottom_right" description="A description of an action that a user of an accessibility service can perform to move the card to the bottom right corner of the screen. [CHAR LIMIT=25]">Move to bottom right</string>
+    <string name="cat_card_action_move_center" description="A description of an action that a user of an accessibility service can perform to move the card to the center of the screen. [CHAR LIMIT=25]">Move to center</string>
+
+    <string name="cat_card_dismissed" description="a transient text that appears on screen when a card is dismissed [CHAR LIMIT=30]">Card Dismissed</string>
+    <string name="cat_card_undo" description="A label in a button to dismiss the last action [CHAR LIMIT=15]">Undo</string>
+    <string name="cat_card_swipe_to_dismiss" description="A label in a button to dismiss the last action [CHAR LIMIT=30]">Swipe this card to dismiss it</string>
+    <string name="cat_card_swipe_dismiss" description="the title of a screen where you can swipe to dismiss a card [CHAR LIMIT=20]">Card Swipe Dismiss</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    //jhfgbyyeadgfoyaeghfe
+
+</resources>
+
+
+
+

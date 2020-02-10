@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ELearn</string>
+    <string name="Shorborno">স্বরবর্ণ</string>
+    <string name="Banglabornomala">বাংলা বর্ণমালা</string>
+    <string name="Englishbornomala">Alphabet</string>
+
+    <string name="Banjonborno">ব্যঞ্জনবর্ণ</string>
+
+    <string name="DekhiPori">দেখি ও পড়ি</string>
+
+    <string name="Aaki">চল আঁকি</string>
+</resources>
